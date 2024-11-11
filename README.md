@@ -40,16 +40,6 @@
 - **Backend**: `Python`
 - **데이터 분석**: `pandas`, `scikit-learn`
 
-## 설치 및 실행 방법
-1. **필수 패키지 설치**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. **Django 프로젝트 설정**:
-   ```bash
-   python manage.py migrate
-   python manage.py runserver
-   ```
 
 ## 사용 예시
 1. **단원 입력 및 문제 생성**:
